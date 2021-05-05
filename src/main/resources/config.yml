@@ -1,2 +1,2 @@
-msg_hello: hello
-value_test: 5
+is_main: false
+maps:

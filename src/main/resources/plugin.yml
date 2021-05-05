@@ -1,20 +1,18 @@
-name: Tuto
-main: fr.ng.ibalix.tuto.Tuto
+name: NationsArcade
+main: fr.ng.ibalix.nationsarcade.NationsArcade
 version: 1.0
 author: iBalix
 commands:
-   hello:
-      description: This is a demo command.
-      usage: /hello
-   hello2:
-      description: This is a demo command.
-      usage: /hello2
-   testperm:
-      description: This is a demo command.
-      usage: /testperm
-   stone:
-      description: This is a demo command.
-      usage: /testperm
-   stoneoff:
-      description: This is a demo command.
-      usage: /testperm
+   vote:
+      description: Voter pour une map
+      usage: /vote <map>
+   game:
+      description: Rejoindre la partie en cours
+      usage: /game
+   nareload:
+      description: Reload la config
+      usage: /nareload
+   joingame:
+      description: Join a game
+      usage: /joingame
+depend: [War]

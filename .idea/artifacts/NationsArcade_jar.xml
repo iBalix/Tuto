@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NationsArcade:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/NationsArcade_jar</output-path>
+    <root id="archive" name="NationsArcade.jar">
+      <element id="module-output" name="NationsArcade" />
+      <element id="library" level="module" name="Maven: com.custom.repo:war:1.0" module-name="NationsArcade" />
+    </root>
+  </artifact>
+</component>

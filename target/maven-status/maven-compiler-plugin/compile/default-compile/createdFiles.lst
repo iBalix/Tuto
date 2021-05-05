@@ -1,4 +1,13 @@
-fr\ng\ibalix\tuto\PlayerListener.class
-fr\ng\ibalix\tuto\Tuto.class
-fr\ng\ibalix\tuto\StoneListener.class
-fr\ng\ibalix\tuto\TutoCommandExecutor.class
+fr\ng\ibalix\nationsarcade\PlayerTask.class
+fr\ng\ibalix\nationsarcade\ArcadeListener$2.class
+fr\ng\ibalix\nationsarcade\ArcadeListener$3.class
+fr\ng\ibalix\nationsarcade\MySQL.class
+fr\ng\ibalix\nationsarcade\ScoreTask.class
+fr\ng\ibalix\nationsarcade\ArcadeListener$4.class
+fr\ng\ibalix\nationsarcade\ArcadeListener.class
+fr\ng\ibalix\nationsarcade\NationsArcadeCommandExecutor.class
+fr\ng\ibalix\nationsarcade\ArcadeListener$1.class
+fr\ng\ibalix\nationsarcade\ScoreTask$1.class
+fr\ng\ibalix\nationsarcade\PlayerPotionTask.class
+fr\ng\ibalix\nationsarcade\VoteTask.class
+fr\ng\ibalix\nationsarcade\NationsArcade.class
